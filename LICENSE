@@ -1,0 +1,21 @@
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+
+This project, titled **"Task 1 – Web Application Security Testing using OWASP Juice Shop"**, was created by **Piyush Singh (Magnus7811)** as part of the Future Interns Program 2025.
+
+You are free to:
+- **Share** – copy and redistribute this document, report, or methodology in any medium or format
+- **Adapt** – remix, transform, and build upon the content for non-commercial use
+
+Under the following terms:
+- **Attribution** – You must give appropriate credit to the original author (Piyush Singh), provide a link to this license, and indicate if any changes were made. You may do so in any reasonable way but not in a way that suggests the licensor endorses you or your use.
+- **NonCommercial** – You may not use the material for commercial purposes, including academic resubmission, resale, or paid training distribution.
+
+This license applies to:
+- All content, analysis, screenshots, and vulnerability documentation included in the task report
+- Methodology and tool usage examples involving SQLMap, Burp Suite, Nikto, and OWASP ZAP
+- Any custom explanation, mitigation strategies, and OWASP Top 10 mapping
+
+To view a copy of this license, visit:  
+🔗 https://creativecommons.org/licenses/by-nc/4.0/
+
+© 2025 Piyush Singh (GitHub: Magnus7811)
